@@ -1,7 +1,7 @@
 #!/bin/bash
 # announce.sh: Announce stream to a Discord channel.
 #
-# https://github.com/noodlebox/KawaiiBot
+# https://github.com/noodlebox/stream-announcer
 #
 # Requires 'curl' and 'jq'
 #
