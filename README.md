@@ -1,8 +1,8 @@
-# KawaiiBot
-A simple Discord bot for announcing streams (and probably some other things)
+# stream-announcer
+A simple script for announcing nginx-rtmp streams to Discord.
 
 ## announce.sh
-Simple shell script that posts a stream announcement to a Discord channel.
+Simple shell script that posts a stream announcement to a Discord channel via webhook.
 
 ### Requires
 - curl
